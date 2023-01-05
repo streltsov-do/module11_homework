@@ -1,0 +1,14 @@
+{
+  "name": "m11_homework",
+  "version": "1.0.0",
+  "description": "test function with jest",
+  "main": "1_functionTest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DS",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
